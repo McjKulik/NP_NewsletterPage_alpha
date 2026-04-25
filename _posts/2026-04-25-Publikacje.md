@@ -3,7 +3,7 @@ layout: "post"
 title:  "Publikacje 25 Kwietnia"
 date: 2026-04-25
 ---
-[Ochrona zdrowia-system nie istnieje. Trzeba go stworzyć! | dr Krzysztof Galbas | Perspektywa Polska](https://www.youtube.com/watch?v=ubxpOK7m8Xk)
+[Ochrona zdrowia-system nie istnieje. Trzeba go stworzyć! - dr Krzysztof Galbas - Perspektywa Polska](https://www.youtube.com/watch?v=ubxpOK7m8Xk)
 
 Facebook\
 [Szpitale powiatowe wpadły w finansową „czarną dziurę” ](https://www.facebook.com/watch/NOWAPolskaNP/) \
