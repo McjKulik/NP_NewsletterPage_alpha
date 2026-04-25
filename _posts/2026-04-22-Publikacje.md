@@ -3,7 +3,6 @@ layout: "post"
 title:  "Publikacje 22 Kwietnia"
 date: 2026-04-22
 ---
-<div style="display: none;">{{ page.title }}</div>
 
 Facebook\
 [NOWA Polska dla przyszłych pokoleń](https://www.facebook.com/NOWAPolskaNP/posts/pfbid02VGEX1Z7zJoae6NZUoFnYzWu5XudQEH1UVU6PfJcVMg9LSCUqy6enXZV7PA9skk9pl) \

@@ -3,7 +3,6 @@ layout: "post"
 title:  "Publikacje 23 Kwietnia"
 date: 2026-04-23
 ---
-<div style="display: none;">{{ page.title }}</div>
 
 Facebook\
 [Rezygnacja Sławomira Cenckiewicza z funkcji szefa Biura Bezpieczeństwa Narodowego](https://www.facebook.com/NOWAPolskaNP/posts/pfbid08LUTRZY3gSwerRsmrEwBEKFc4iCs3DB7YqSwgfnXhL7GjptwMo3Y2cn1hEcMPDaWl) \

@@ -15,7 +15,7 @@ layout: null
       <link>{{ site.url }}{{ post.url }}</link>
       <guid>{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <description><![CDATA[
+      <description><![CDATA[{{ post.title }}
         {{ post.content }}
       ]]></description>
     </item>
