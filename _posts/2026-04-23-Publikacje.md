@@ -3,9 +3,8 @@ layout: "post"
 title:  "Publikacje 23 Kwietnia"
 date: 2026-04-23
 ---
-<span style="color:red"> ! Kanał i adres są tymczasowe służą jedynie do testu kanału  !</span>
+<div style="display: none;">{{ page.title }}</div>
 
-Publikacje 23 Kwietnia
 Facebook\
 [Rezygnacja Sławomira Cenckiewicza z funkcji szefa Biura Bezpieczeństwa Narodowego](https://www.facebook.com/NOWAPolskaNP/posts/pfbid08LUTRZY3gSwerRsmrEwBEKFc4iCs3DB7YqSwgfnXhL7GjptwMo3Y2cn1hEcMPDaWl) \
 [Odszedł Poseł Łukasz Litewka...](https://www.facebook.com/NOWAPolskaNP/posts/pfbid02cyn1k62QmWg7YpdtFHScUgFfmzb8VffW9YNWNMZfmvwNn8jhxgySod963ZPXkqcxl)\
@@ -15,3 +14,5 @@ Facebook\
 
 X\
 [Odszedł Poseł Łukasz Litewka...](https://x.com/nowa_polska_NP/status/2047357664913441159)
+
+<span style="color:red"> ! Kanał i adres są tymczasowe służą jedynie do testu kanału RSS !</span>

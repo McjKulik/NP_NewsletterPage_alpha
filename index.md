@@ -3,7 +3,7 @@ layout: default
 title: Aktualności
 ---
 
-<span style="color:red"> ! Strona i adres są tymczasowe służą jedynie do testu kanału  !</span>
+<span style="color:red"> ! Strona i adres są tymczasowe służą jedynie do testu kanału RSS !</span>
 
 ### 📡 RSS
 RSS to standard rozpowszechniania informacji do prezentowania nowości ze stron internetowych na bieżąco \
