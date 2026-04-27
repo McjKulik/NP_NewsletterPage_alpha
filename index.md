@@ -7,7 +7,7 @@ title: Aktualności
 
 ### 📡 RSS
 RSS to standard rozpowszechniania informacji do prezentowania nowości ze stron internetowych na bieżąco \
-[- Ustawienia Thunderbird](https://www.youtube.com/watch?v=rF3Yrguwy0M) \
+[- Ustawienia Thunderbird](https://support.mozilla.org/pl/kb/subskrybowanie-kanalow-informacyjnych-blogow) \
 [- Ustawienia Outlook](https://www.youtube.com/watch?v=UzIvnwqwUco)
 
 Subskrybuj RSS
