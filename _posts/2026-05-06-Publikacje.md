@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title:  "Publikacje 02 Maja"
-date: 2026-05-02
+title:  "Publikacje 06 Maja"
+date: 2026-05-06
 ---
 
 
